@@ -1,0 +1,10 @@
+title: Kevin Miller – Speaking
+description: Talk topics, abstracts, and booking information for Kevin Miller.
+markdown: kramdown
+
+# Use a built-in GitHub Pages theme (easy mode)
+theme: minima
+
+# Optional: update this to your GitHub repo URL
+url: https://<your-username>.github.io
+baseurl: /<repo-name>   # leave empty ("") if this is a user/organization site
